@@ -6,7 +6,7 @@ This project aims to predict the likelihood of heart disease using machine learn
 The objective of this project is to develop machine learning models to predict the chances of heart disease based on various relevant features. By analyzing and understanding these features, we can gain insights into the factors contributing to heart disease and improve early detection and management.
 
 ### Dataset:
-The dataset used for this project is sourced from Kaggle: [Heart Disease Prediction](https://www.kaggle.com/cherngs/heart-disease-cleveland-uci). It comprises 14 features that include demographic information, medical history, and clinical measurements. These features are described as follows:
+The dataset used for this project is sourced from Kaggle: [Heart Disease Prediction]([https://www.kaggle.com/cherngs/heart-disease-cleveland-uci](https://www.kaggle.com/datasets/ritwikb3/heart-disease-cleveland)). It comprises 14 features that include demographic information, medical history, and clinical measurements. These features are described as follows:
 
 1. **age:** Age in years
 2. **sex:** Gender (1 = male, 0 = female)
