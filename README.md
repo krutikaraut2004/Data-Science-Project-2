@@ -1,4 +1,4 @@
-### ***Heart Disease Prediction***
+## ***Heart Disease Prediction***
 
 This project aims to predict the likelihood of heart disease using machine learning techniques. Cardiovascular diseases are a leading cause of mortality worldwide, responsible for a significant portion of global deaths. Early detection and management of heart disease can significantly reduce its fatality rate.
 
